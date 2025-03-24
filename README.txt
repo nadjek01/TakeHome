@@ -1,9 +1,10 @@
 The code submitted is a portion of a collaborative project for my Machine Structures
-and Assembly Language Class. The main purpose of this project was to explore and 
-demonstrate the effects of data locality and memory access patterns 
-(row-major, column-major, and block-major traversal methods) on
-program performance. Specifically, it aimed to illustrate
-how cache efficiency impacts execution time when manipulating two-dimensional
+and Assembly Language Class that I had a heavy hand in implementing. 
+The main purpose of this project was to explore and demonstrate the effects
+of data locality and memory access patterns (row-major, column-major, 
+and block-major traversal methods) on program performance.
+Specifically, it aimed to illustrate how cache efficiency
+impacts execution time when manipulating two-dimensional
 image data through rotations and flips.
 
 
