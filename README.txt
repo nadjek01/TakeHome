@@ -1,4 +1,4 @@
-The code submitted is a small portion of a collaborative project for my Machine Structures
+The code submitted is a portion of a collaborative project for my Machine Structures
 and Assembly Language Class. I (Nana Adjekum) had a great part in implementing the majority
 of the logic in the provided source file (ppmtrans.c). My partner contributed significantly
 to other components, but the core rotation logic, mapping implementations, and detailed
