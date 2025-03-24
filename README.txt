@@ -4,6 +4,12 @@ of the logic in the provided source file (ppmtrans.c). My partner contributed si
 to other components, but the core rotation logic, mapping implementations, and detailed
 comments provided in ppmtrans.c were primarily authored by me.
 
+The main purpose of this project was to explore and demonstrate the effects of data
+locality and memory access patterns (row-major, column-major, and block-major
+traversal methods) on program performance. Specifically, it aimed to illustrate
+how cache efficiency impacts execution time when manipulating two-dimensional
+image data through rotations and flips.
+
 
 This is the ReadME for the overall project for your reference!
 Authors: Nana Adjekum and [Partner]
