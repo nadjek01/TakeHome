@@ -1,4 +1,6 @@
-Authors: Nana Adjekum and Henry Rees Tindall
+The code submitted is a small portion of a collaborative project for my Machine Structures and Assembly Language Class. I (Nana Adjekum) had a great part in implementing the majority of the logic in the provided source file (ppmtrans.c). My partner contributed significantly to other components, but the core rotation logic, mapping implementations, and detailed comments provided in ppmtrans.c were primarily authored by me.
+This is the ReadME for the overall project for your reference!
+Authors: Nana Adjekum and [Partner]
 
 Help Received: John Eastman and Bill from office hours were a huge help along
                with lecture notes and lab
