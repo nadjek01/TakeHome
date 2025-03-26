@@ -1,7 +1,8 @@
 /**************************************************************************
  * sudoku.c
- * Authors: Henry Tindall   htinda01
- *          Nana Adjekum    nadjek01
+ * Authors: 
+ *          Nana Adjekum    
+ *          [Partner]
  * 
  * Date:    October 11, 2023
  * 
